@@ -1,4 +1,4 @@
-<h1 align="center"> 🚀 HNG-API 🥰💘</h1>
+<h1 align="center"> 🚀 HNG-API 💘</h1>
 
 <p align="center">
   A simple <strong>Spring Boot</strong>-based public API to retrieve basic information such as your email, current datetime, and GitHub repository URL.
