@@ -1,4 +1,4 @@
-FROM maven:3.9.5-openjdk-21-slim AS build
+FROM openjdk:21-jdk AS build
 
 COPY . .
 
