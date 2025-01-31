@@ -23,7 +23,14 @@
 
 <img src="https://github.com/user-attachments/assets/422e2952-64f6-45b1-8ff2-58f353946af7" alt="API Response Preview">
 
-<h3><strong>Response Format</strong></h3>
+📌 <strong>JSON Response Format</strong>  
+<pre>
+{
+  "email": "mazinoishioma@gmail.com",
+  "current_datetime": "2025-01-30T09:30:00Z",
+  "github_url": "https://github.com/mazino-ux/HNG"
+}
+</pre>
 <p>All responses are returned in JSON format.</p>
 
 <h2>🚀 How to Run Locally</h2>
@@ -54,6 +61,9 @@ java -jar target/hng-api-0.0.1-SNAPSHOT.jar
 
 <p>This API is live and running on <strong>Render</strong>, so no need to set it up manually.</p>
 
+<h2>⏱️ API Response Time</h2>  
+This API is optimized to respond in under <strong>500ms</strong>, ensuring fast performance.  
+
 <h3>🔗 Live API URL:</h3>
 
 <pre><code>https://hng-api-g4th.onrender.com/api/info</code></pre>
@@ -77,3 +87,6 @@ java -jar target/hng-api-0.0.1-SNAPSHOT.jar
   <li>🧩 <strong>Minimalistic</strong> – No unnecessary endpoints.</li>
   <li>🔗 <strong>Ready-to-use</strong> – Deployed and accessible.</li>
 </ul>
+
+<h2>🔗 Back Link</h2>  
+Java: <a href="https://hng.tech/hire/java-developers">https://hng.tech/hire/java-developers</a>
